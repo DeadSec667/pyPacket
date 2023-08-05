@@ -1,0 +1,11 @@
+    Scapy : Scapy est une bibliothèque très flexible et puissante pour la manipulation de paquets réseau. Elle permet de créer, envoyer, capturer et analyser des paquets réseau. Scapy prend en charge la création de paquets personnalisés et offre une grande souplesse pour l'analyse et la modification des paquets.
+
+    PyShark : PyShark est une interface Python pour la bibliothèque TShark, qui fait partie de Wireshark. Il vous permet de capturer et d'analyser des paquets réseau à l'aide de Wireshark.
+
+    pcapy : Pcapy est une bibliothèque d'interface pour la capture de paquets en utilisant la bibliothèque libpcap. Elle permet la capture de paquets bruts à partir d'interfaces réseau.
+
+    dpkt : Dpkt est une bibliothèque pour le traitement de paquets réseau. Elle permet de décoder et d'analyser des paquets en utilisant divers protocoles réseau.
+
+    RawCap : RawCap est un outil indépendant de Python qui permet la capture brute de paquets réseau sous Windows.
+
+    WinPcap et Npcap : Ce sont des bibliothèques pour la capture de paquets réseau sous Windows. Bien qu'elles ne soient pas natives de Python, vous pouvez les utiliser via des bindings ou en appelant des commandes externes.
